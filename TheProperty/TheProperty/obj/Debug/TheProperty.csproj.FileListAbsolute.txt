@@ -1,0 +1,54 @@
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\bin\Debug\TheProperty.exe.config
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\bin\Debug\TheProperty.exe
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\bin\Debug\TheProperty.pdb
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\bin\Debug\Guna.UI.dll
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.Form1.resources
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.Properties.Resources.resources
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.csproj.CopyComplete
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.exe
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.pdb
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.Add.resources
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.AdminPanel.resources
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.AdСontrol.resources
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.SIGN_IN.resources
+C:\Users\Администратор\source\repos\TheProperty\TheProperty\obj\Debug\TheProperty.SIGN_UP.resources
+E:\Application\TheProperty\TheProperty\bin\Debug\TheProperty.exe.config
+E:\Application\TheProperty\TheProperty\bin\Debug\TheProperty.exe
+E:\Application\TheProperty\TheProperty\bin\Debug\TheProperty.pdb
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.csprojAssemblyReference.cache
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.Add.resources
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.AdminPanel.resources
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.Form1.resources
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.Properties.Resources.resources
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.SIGN_IN.resources
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.SIGN_UP.resources
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.csproj.GenerateResource.cache
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.csproj.CoreCompileInputs.cache
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.csproj.CopyComplete
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.exe
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.pdb
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.ElProperty.resources
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.InfoProperty.resources
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.ReferenceSystem.resources
+E:\Application\TheProperty             Good\TheProperty\bin\Debug\TheProperty.exe.config
+E:\Application\TheProperty             Good\TheProperty\bin\Debug\TheProperty.exe
+E:\Application\TheProperty             Good\TheProperty\bin\Debug\TheProperty.pdb
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.csprojAssemblyReference.cache
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.Add.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.AdminPanel.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.ElProperty.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.Form1.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.InfoProperty.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.Properties.Resources.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.ReferenceSystem.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.SIGN_IN.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.SIGN_UP.resources
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.csproj.GenerateResource.cache
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.csproj.CoreCompileInputs.cache
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.csproj.CopyComplete
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.exe
+E:\Application\TheProperty             Good\TheProperty\obj\Debug\TheProperty.pdb
+E:\Application\TheProperty\TheProperty\obj\Debug\TheProperty.ElUser.resources
