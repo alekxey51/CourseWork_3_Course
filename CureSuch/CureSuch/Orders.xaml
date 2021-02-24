@@ -1,0 +1,28 @@
+﻿<Window x:Class="CureSuch.Orders"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CureSuch"
+        mc:Ignorable="d"
+        Title="Orders" Height="419.748" Width="706.975">
+    <Window.Background>
+        <ImageBrush ImageSource="wed1.jpg"/>
+    </Window.Background>
+    <Grid>
+        <DataGrid x:Name="dataGrid" Margin="30,40,30,64" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=IdOrder}"/>
+                <DataGridTextColumn Binding="{Binding Path=Name}"/>
+                <DataGridTextColumn Binding="{Binding Path=Date}"/>
+                <DataGridTextColumn Binding="{Binding Path=DescryptionShort}"/>
+                <DataGridTextColumn Binding="{Binding Path=DescryptionLong}"/>
+                <DataGridTextColumn Binding="{Binding Path=Price}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Ваши заказы:" VerticalAlignment="Top" Margin="30,10,0,0" Height="25" Width="128" FontSize="20" FontFamily="Arial" Foreground="White"/>
+        <TextBox x:Name ="CureName" LostFocus ="CureName_LostFocus"  HorizontalAlignment="Left" Height="24" Margin="412,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" FontSize="17" Foreground="Black"/>
+        <TextBox x:Name ="Whatermark" GotFocus="Whatermark_GotFocus" HorizontalAlignment="Left" Height="24" Margin="402,346,0,0" TextWrapping="Wrap" Text="Введите Id заказа.." VerticalAlignment="Top" Width="157" FontSize="17" Foreground="Gray"/>
+        <Button x:Name ="Delete" Content="Удалить" HorizontalAlignment="Left" Margin="559,346,0,0" VerticalAlignment="Top" Width="79" Height="24" Click="Delete_Click"/>
+    </Grid>
+</Window>

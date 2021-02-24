@@ -1,0 +1,29 @@
+﻿<Window x:Class="CureSuch.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CureSuch"
+        mc:Ignorable="d"
+        Title="Registration" Height="516.47" Width="450">
+    <Grid>
+        <StackPanel>
+            <TextBlock Padding="0,10,0,0" FontWeight="ExtraLight" FontSize="25" Margin="155,0,142,0" Height="49"><Run Text="Регистрация"/></TextBlock>
+        </StackPanel>
+        <StackPanel Margin ="40,35,40,0">
+            <Label FontSize="18" FontWeight="Medium" Content="Name"/>
+            <TextBox x:Name="txtName" Height="30" FontSize="23"></TextBox>
+            <Label FontSize="18" FontWeight="Medium" Content="Surname"/>
+            <TextBox x:Name="txtSurname" Height="30" FontSize="23"></TextBox>
+            <Label FontSize="18" FontWeight="Medium" Content="Adress"/>
+            <TextBox x:Name="txtAdress" Height="30" FontSize="23"></TextBox>
+            <Label FontSize="18" FontWeight="Medium" Content="Login"/>
+            <TextBox x:Name="txtLogin" Height="30" FontSize="23"></TextBox>
+            <Label FontSize="18" FontWeight="Medium" Content="Password"/>
+            <TextBox x:Name="txtPassword" Height="29" FontSize="23"/>
+            <Button x:Name  ="Register" Height="36" Background="Aqua" FontSize="20" Content="Registre" Margin="22,20,220,0" Click="Register_Click"/>
+            <Button x:Name ="Back" Height="32" Background="Aqua" FontSize="20" Content="Back" Margin="22,20,220,20" Click="Back_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

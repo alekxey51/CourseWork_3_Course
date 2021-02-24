@@ -1,0 +1,16 @@
+﻿<Window x:Class="CureSuch.Spravka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CureSuch"
+        mc:Ignorable="d"
+        Title="Spravka" Height="356.218" Width="502.709">
+    <Window.Background>
+        <ImageBrush ImageSource="wed2.jpg"/>
+    </Window.Background>
+    <Grid Margin="0,0,0,2">
+        <TextBlock HorizontalAlignment="Left" Margin="211,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="292" Width="274"><Run FontWeight="Bold" FontSize="16" Text="1 Введение"/><LineBreak/><Run FontSize="16" Text="Свадебный салон – это особенный магазин, в корне отличный от обычных сетевых бутиков модной одежды. В него нельзя забежать попутно, проходить мимо и ненароком зайти. Туда отправляются осознанно и обдуманно."/><LineBreak/><Run FontSize="16"/><LineBreak/><Run FontWeight="Bold" FontSize="16" Text="2 О программе"/><LineBreak/><Run FontSize="16" Text="Курсовой проект по КПиЯП Т-795"/><LineBreak/><Run FontSize="16" Text="Горецкий Николай "/><Run FontSize="16" Text="С"/><Run FontSize="16" Text="ергеевич"/><LineBreak/><Run/></TextBlock>
+
+    </Grid>
+</Window>

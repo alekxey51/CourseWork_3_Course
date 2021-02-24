@@ -1,0 +1,76 @@
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch.csprojAssemblyReference.cache
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\MainWindow.g.cs
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\App.g.cs
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch_MarkupCompile.cache
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch_MarkupCompile.lref
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\bin\Debug\CureSuch.exe.config
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\bin\Debug\CureSuch.exe
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\bin\Debug\CureSuch.pdb
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\MainWindow.baml
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch.g.resources
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch.Properties.Resources.resources
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch.csproj.GenerateResource.cache
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch.csproj.CoreCompileInputs.cache
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch.exe
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch.pdb
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\Window1.g.cs
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\Window1.baml
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\Registration.g.cs
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\Registration.baml
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\Orders.g.cs
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\Orders.baml
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\bin\Debug\Cure.mdf
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\bin\Debug\Cure_log.ldf
+E:\рендерочек\Майская хуйня\CureSuch\CureSuch\obj\Debug\CureSuch_Content.g.cs
+E:\рендерочек\Папка\CureSuch\CureSuch\bin\Debug\Cure.mdf
+E:\рендерочек\Папка\CureSuch\CureSuch\bin\Debug\Cure_log.ldf
+E:\рендерочек\Папка\CureSuch\CureSuch\bin\Debug\CureSuch.exe.config
+E:\рендерочек\Папка\CureSuch\CureSuch\bin\Debug\CureSuch.exe
+E:\рендерочек\Папка\CureSuch\CureSuch\bin\Debug\CureSuch.pdb
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch.csprojAssemblyReference.cache
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\MainWindow.g.cs
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\Orders.g.cs
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\Registration.g.cs
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\Window1.g.cs
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\App.g.cs
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch_Content.g.cs
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch_MarkupCompile.cache
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch_MarkupCompile.lref
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\MainWindow.baml
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\Orders.baml
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\Registration.baml
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\Window1.baml
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch.g.resources
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch.Properties.Resources.resources
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch.csproj.GenerateResource.cache
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch.csproj.CoreCompileInputs.cache
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch.exe
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\CureSuch.pdb
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\Spravka.g.cs
+E:\рендерочек\Папка\CureSuch\CureSuch\obj\Debug\Spravka.baml
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\bin\Debug\Cure.mdf
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\bin\Debug\Cure_log.ldf
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\bin\Debug\CureSuch.exe.config
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\bin\Debug\CureSuch.exe
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\bin\Debug\CureSuch.pdb
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch.csprojAssemblyReference.cache
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\MainWindow.g.cs
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\Orders.g.cs
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\Registration.g.cs
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\Spravka.g.cs
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\Window1.g.cs
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\App.g.cs
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch_Content.g.cs
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch_MarkupCompile.cache
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch_MarkupCompile.lref
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\MainWindow.baml
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\Orders.baml
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\Registration.baml
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\Spravka.baml
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\Window1.baml
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch.g.resources
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch.Properties.Resources.resources
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch.csproj.GenerateResource.cache
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch.csproj.CoreCompileInputs.cache
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch.exe
+C:\Users\Alekxey\Desktop\CureSuch\CureSuch\obj\Debug\CureSuch.pdb
